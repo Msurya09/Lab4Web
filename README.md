@@ -25,3 +25,17 @@ Kemudian tambahkan kode CSS untuk membuat layoutnya.
 
 
 ![gambar4](screenshoot/c4.png)
+
+Membuat Navigasi
+Kemudian selanjutnya mengatur navigasi.
+
+![gambar5](screenshoot/c5.png)
+
+Membuat Hero Panel.
+Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+
+![gambar6](screenshoot/c6.png)
+
+![gambar7](screenshoot/c7.png)
+
+![gambar8](screenshoot/c8.png)
