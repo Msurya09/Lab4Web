@@ -58,3 +58,29 @@ Kemudian tambahkan CSS.
 maka hasilnya akan seperti ini :
 
 ![gambar12](screenshoot/c12.png)
+
+Mengatur Footer
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
+
+![gambar13](screenshoot/c13.png)
+
+Menambahkan Elemen lainnya pada Main Content
+
+![gambar14](screenshoot/c14.png)
+
+Kemudian tambahkan CSS.
+
+![gambar15](screenshoot/c15.png)
+
+maka hasilnya akan seperti ini :
+
+![gambar16](screenshoot/c16.png)
+
+Menambahkan Content Artikel
+Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
+
+![gambar17](screenshoot/c17.png)
+
+Kemudian tambahkan CSS.
+
+![gambar18](screenshoot/c18.png)
