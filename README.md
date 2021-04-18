@@ -39,3 +39,22 @@ Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
 ![gambar7](screenshoot/c7.png)
 
 ![gambar8](screenshoot/c8.png)
+
+
+Mengatur Layout Main dan Sidebar
+Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
+
+![gambar9](screenshoot/c10.png)
+
+Membuat Sidebar Widget
+Kemudian selanjutnya menambahkan element lain dalam sidebar.
+
+![gambar10](screenshoot/c9.png)
+
+Kemudian tambahkan CSS.
+
+![gambar11](screenshoot/c11.png)
+
+maka hasilnya akan seperti ini :
+
+![gambar12](screenshoot/c12.png)
