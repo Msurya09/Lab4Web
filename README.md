@@ -84,3 +84,7 @@ Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 Kemudian tambahkan CSS.
 
 ![gambar18](screenshoot/c18.png)
+
+maka hasilnya akan seperti ini :
+
+![gambar19](screenshoot/c19.png)
