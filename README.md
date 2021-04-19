@@ -88,3 +88,27 @@ Kemudian tambahkan CSS.
 maka hasilnya akan seperti ini :
 
 ![gambar19](screenshoot/c19.png)
+
+Tugas
+
+Tambahkan Layout untuk menu About
+=> buat single layout yang berisi deskripsi, portfolio, dll
+
+buat file baru bernama About.html
+lalu buat codingan di document HTML pada bagian body seperti dibawah ini
+
+![gambar20](screenshoot/c20.png)
+
+maka akan muncul seperti ini :
+
+![gambar21](screenshoot/c21.png)
+
+lalu buat file baru bernama Kontak.html
+
+lakukan hal yang sama dengan document HTML sebagai dasar nya hanya saja kita ganti header bodynya dengan codingan seperti ini :
+
+![gambar22](screenshoot/c22.png)
+
+maka hasilnya akan seperti ini :
+
+![gambar23](screenshoot/c23.png)

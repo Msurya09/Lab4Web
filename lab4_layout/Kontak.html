@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me</title>
+    <title>Kontak</title>
     <style>
         /* import google font */
         @import
@@ -66,20 +66,35 @@
             font-size: 18px;
             line-height: 25px;
         }
+        
         /* footer */
         footer {
-        clear:both;
-        background-color:#1d1d1d;
-        margin: 5px;
-        padding: 5px;
-        color:#eee;
+            clear:both;
+            background-color:#1d1d1d;
+            margin: 5px;
+            padding: 5px;
+            color:#eee;
+        }
+        form p > label {
+            display: inline-block;
+            width: 100px;
+        }
+        form input[type="text"], form textarea {
+            border: 1px solid #2b83ea;
+        }
+        form input[type="submit"] {
+            border: 1px solid #2b83ea;
+            background-color: #2b83ea;
+            color: #ffffff;
+            font-weight: bold;
+            padding: 5px 15px;
         }
     </style>
 </head>
 <body>
     <div id="container">
         <header>
-            <H1>About Me</H1>
+            <H1>Kontak</H1>
         </header>
         <nav>
             <a href="home.html" class="active">Home</a>
@@ -87,19 +102,31 @@
             <a href="kontak.html">Kontak</a>
         </nav>
         <section id="hero">
-            <h1>Tentang saya!</h1>
-            <img src="LOGO_UPB_NEW-1-300x2721.png" alt="Logo" width="150">
-            <p>Hai semua perkenalkan nama saya adalah M Surya. Saya lahir di Bekasi
-            tanggal 9 Spetember 1999, tanggal yang cantik bukan. Saya bekerja sebagai seorang guru honorer disebuah
-            pondok pesantren di daerah Cikarang utara
+            <h1>Kontak Saya</h1>
+            <p>Hubungi saya dengan cara mengisi form dibawah</p>
+            <form action="proses.php" method="post">
+                <fieldset>
+            <p>
+                <label for="nama">Nama</label>
+                <input type="text" id="nama" name="nama">
             </p>
-            <p>Saya adalah seorang mahasiswa disebuah kampus bernama Universitas Pelita Bangsa
+            <p>
+                <label for="pesan">Masukan Pesan Anda</label>
+                <textarea id="pesan" name="pesan" cols="20" rows="3"></textarea>
             </p>
+            <p>
+                <label for="email">Alamat Email</label>
+                <input type="text" id="email" name="email">
+            </p>
+            <p>
+                <input type="submit" value="Kirim"></p>
+            </fieldset>
+           </form>
             <a href="home.html" class="btn btn-large">Back to home &raquo;</a>
         </section>
     </div>
     <footer>
-        <p>&copy; 2021 - Universitas Pelita Bangsa</p>
+        <p>&copy; 2021 - Panji Putra Pamungkas</p>
     </footer>
 </body>
 </html>
